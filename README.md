@@ -27,6 +27,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 For this tutorial we will walk through the stages of a ticket from Intake to Resolution. 
 
-To begin we will see an end-user, Karen in this example, submits a ticket for Business Critical Outage. She summarizes the issue as the "Entire mobile online banking system is down". 
+To begin we will see an end-user, Karen in this example, submits a ticket with the topic - Business Critical Outage. She summarizes the issue as the "Entire mobile online banking system is down". 
 
 ![image](https://user-images.githubusercontent.com/111653930/235738146-eeb57cfc-79a9-432c-83f7-ae9895463c75.png)
