@@ -25,10 +25,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+For this tutorial we will walk through the stages of a ticket from Intake to Resolution. 
+
+To begin we will see an end-user, Karen in this example, submits a ticket for Business Critical Outage. She summarizes the issue as the "Entire mobile online banking system is down". 
+
+![image](https://user-images.githubusercontent.com/111653930/235738146-eeb57cfc-79a9-432c-83f7-ae9895463c75.png)
