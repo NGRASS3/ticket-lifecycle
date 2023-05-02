@@ -41,5 +41,5 @@ Inside the ticket we can see that the priority has been set to Emergency since i
 
 ![image](https://user-images.githubusercontent.com/111653930/235744604-0d16cebc-e434-4179-a86b-32e7c278265f.png)
 
-Inside the ticket we can see that the priority has been set to Emergency since its a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that he/she is working System Administrators to get mobile banking back online.
+Inside the ticket we can see that the priority has been set to Emergency since its a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that he/she is working with System Administrators to get mobile banking back online.
 
