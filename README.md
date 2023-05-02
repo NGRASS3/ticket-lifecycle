@@ -46,7 +46,7 @@ Once the problem has been fixed we can update the ticket with a message detailin
 
 ![image](https://user-images.githubusercontent.com/111653930/235746283-ae527f7c-30ee-4267-b957-0a288f7c5921.png)
 
-After resolving the ticket we can see it no longer appears in the "Open" tab but can still be found under "Closed" tab.
+After resolving the ticket we can see it no longer appears in the "Open" tab but can still be found under the "Closed" tab.
 
 ![image](https://user-images.githubusercontent.com/111653930/235746600-4daad270-d44a-455a-89a3-d9d540949b1c.png)
 ![image](https://user-images.githubusercontent.com/111653930/235746634-659ee4c3-78a3-4125-9ed4-97c03e068640.png)
