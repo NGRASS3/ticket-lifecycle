@@ -32,8 +32,8 @@ To begin we will see an end-user, Karen in this example, submits a ticket with t
 ![image](https://user-images.githubusercontent.com/111653930/235738146-eeb57cfc-79a9-432c-83f7-ae9895463c75.png)
 
 
-Next we login as an Agent and see a list of the current active tickets. 
+Next we login as an Agent and see a list of the current active tickets. Typically Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs.
 
-![image](https://user-images.githubusercontent.com/111653930/235741229-65a7b56a-375c-4358-a096-877c99f81e60.png)
+![image](https://user-images.githubusercontent.com/111653930/235742803-093ecfbb-8cef-48b1-a6f8-30f6e02e366f.png)
 
 
