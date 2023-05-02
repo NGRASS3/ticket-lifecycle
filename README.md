@@ -37,3 +37,9 @@ Next we login as an Agent and see a list of the current active tickets. Typicall
 ![image](https://user-images.githubusercontent.com/111653930/235742803-093ecfbb-8cef-48b1-a6f8-30f6e02e366f.png)
 
 
+Inside the ticket we can see that the priority has been set to Emergency since its a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that he/she is working System Administrators to get mobile banking back online.
+
+![image](https://user-images.githubusercontent.com/111653930/235744604-0d16cebc-e434-4179-a86b-32e7c278265f.png)
+
+Inside the ticket we can see that the priority has been set to Emergency since its a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that he/she is working System Administrators to get mobile banking back online.
+
