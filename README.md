@@ -41,5 +41,19 @@ Inside the ticket we can see that the priority has been set to Emergency since i
 
 ![image](https://user-images.githubusercontent.com/111653930/235744604-0d16cebc-e434-4179-a86b-32e7c278265f.png)
 
-Inside the ticket we can see that the priority has been set to Emergency since its a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that he/she is working with System Administrators to get mobile banking back online.
+
+Once the problem has been fixed we can update the ticket with a message detailing the solution and set the status to "resolved".
+
+![image](https://user-images.githubusercontent.com/111653930/235746283-ae527f7c-30ee-4267-b957-0a288f7c5921.png)
+
+After resolving the ticket we can see it no longer appears in the "Open" tab but can still be found under "Closed" tab.
+
+![image](https://user-images.githubusercontent.com/111653930/235746600-4daad270-d44a-455a-89a3-d9d540949b1c.png)
+![image](https://user-images.githubusercontent.com/111653930/235746634-659ee4c3-78a3-4125-9ed4-97c03e068640.png)
+
+
+
+
+
+
 
