@@ -33,7 +33,7 @@ To begin we will see an end-user, Karen in this example, submits a ticket with t
 
 
 <h3>Assignment and Communication</h3>
-Next we login as an Agent and see a list of the current active tickets. Typically Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs.
+Next we login as an Agent and see a list of the current active tickets. Typically Queue Managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs.
 
 ![image](https://user-images.githubusercontent.com/111653930/235742803-093ecfbb-8cef-48b1-a6f8-30f6e02e366f.png)
 
