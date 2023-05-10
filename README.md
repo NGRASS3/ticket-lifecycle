@@ -25,8 +25,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-For this tutorial we will walk through the stages of a ticket from Intake to Resolution. 
-
 <h3>Intake</h3>
 
 To begin we will see an end-user, Karen in this example, submits a ticket with the topic - Business Critical Outage. She summarizes the issue as the "Entire mobile online banking system is down". 
