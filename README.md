@@ -40,13 +40,13 @@ Next we login as an Agent and see a list of the current active tickets. Typicall
 
 <h3>Working the Issue</h3>
 
-Inside the ticket we can see that the priority has been set to Emergency since its a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that he/she is working with System Administrators to get mobile banking back online.
+Inside the ticket we can see that the priority has been set to "Emergency" since it's a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that they are working with System Administrators to get mobile banking back online.
 
 ![image](https://user-images.githubusercontent.com/111653930/235744604-0d16cebc-e434-4179-a86b-32e7c278265f.png)
 
 <br/>
 <h3>Resolution</h3>
-Once the problem has been fixed we can update the ticket with a message detailing the solution and set the status to "resolved".
+Once the problem has been fixed we can update the ticket with a message detailing the solution and set the status to "Resolved".
 
 ![image](https://user-images.githubusercontent.com/111653930/235746283-ae527f7c-30ee-4267-b957-0a288f7c5921.png)
 
