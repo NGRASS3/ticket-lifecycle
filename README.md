@@ -27,21 +27,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 For this tutorial we will walk through the stages of a ticket from Intake to Resolution. 
 
+<h3>Intake</h3>
+
 To begin we will see an end-user, Karen in this example, submits a ticket with the topic - Business Critical Outage. She summarizes the issue as the "Entire mobile online banking system is down". 
 
 ![image](https://user-images.githubusercontent.com/111653930/235738146-eeb57cfc-79a9-432c-83f7-ae9895463c75.png)
 
 
+<h3>Assignment and Communication</h3>
 Next we login as an Agent and see a list of the current active tickets. Typically Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs.
 
 ![image](https://user-images.githubusercontent.com/111653930/235742803-093ecfbb-8cef-48b1-a6f8-30f6e02e366f.png)
 
+
+<h3>Working the Issue</h3>
 
 Inside the ticket we can see that the priority has been set to Emergency since its a business impacting event. We also see that the ticket has been assigned to the appropriate Agent, and that the Agent has left a note detailing that he/she is working with System Administrators to get mobile banking back online.
 
 ![image](https://user-images.githubusercontent.com/111653930/235744604-0d16cebc-e434-4179-a86b-32e7c278265f.png)
 
 <br/>
+<h3>Resolution</h3>
 Once the problem has been fixed we can update the ticket with a message detailing the solution and set the status to "resolved".
 
 ![image](https://user-images.githubusercontent.com/111653930/235746283-ae527f7c-30ee-4267-b957-0a288f7c5921.png)
