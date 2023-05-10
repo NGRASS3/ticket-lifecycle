@@ -18,21 +18,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Creation (End User POV)
+- Intake & Assignment (Agent POV)
+- Working the Issue (Agent POV)
+- Resolution (Agent POV)
 
 <h2>Lifecycle Stages</h2>
 
-<h3>Intake</h3>
+<h3>Creation</h3>
 
 To begin we will see an end-user, Karen in this example, submit a ticket with the topic - Business Critical Outage. She summarizes the issue as the "Entire mobile online banking system is down". 
 
 ![image](https://user-images.githubusercontent.com/111653930/235738146-eeb57cfc-79a9-432c-83f7-ae9895463c75.png)
 
 
-<h3>Assignment and Communication</h3>
+<h3>Intake and Assignment</h3>
 Next we login as an Agent and see a list of the current active tickets. Typically Queue Managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs.
 
 ![image](https://user-images.githubusercontent.com/111653930/235742803-093ecfbb-8cef-48b1-a6f8-30f6e02e366f.png)
